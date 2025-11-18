@@ -21,13 +21,13 @@ python -m venv .venv
 2️⃣ Activarlo (Windows)
 . ./.venv/Scripts/activate
 
-3️⃣.2️⃣  Activarlo (Mac / Linux)
+2️⃣.1️⃣  Activarlo (Mac / Linux)
 source venv/bin/activate
 
- 4️⃣ clonar el repositortio
+3️⃣ clonar el repositortio
 git clone https://github.com/code-ALX79/Musica-en-la-Gran-Ciudad.git
 
-5️⃣ Instalar las dependencias
+4️⃣ Instalar las dependencias
 pip install -r requirements.txt
 
 ```
@@ -86,6 +86,7 @@ El proyecto sigue un flujo profesional de **limpieza, transformación, exploraci
 ```
 
 🧹 **Etapas del análisis**
+
 1️⃣ Carga y exploración inicial
 
 *- Lectura de los CSV de llamadas, mensajes, internet, tarifas y usuarios.*
