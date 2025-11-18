@@ -178,7 +178,7 @@ Se realizaron comparaciones mensuales entre Surf y Ultimate:
 
 *2. Abre el archivo:*
 
-```megaline_analysis.ipynb````
+```megaline_analysis.ipynb```
 
 *3. Ejecuta cada celda en orden para reproducir todo el análisis.*
 
